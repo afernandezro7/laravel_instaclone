@@ -1,0 +1,40 @@
+.avatar{
+    width: 100%;
+}
+.avatar img{
+    width: 80px;
+}
+
+.card-body .description {
+    padding: 10px;
+}
+
+a.interactive_action,
+a.interactive_comments{
+    color: #4f4444;
+    text-decoration: none;
+}
+a.interactive_action:hover,
+a.interactive_comments:hover{
+    color: #4f4444;
+    text-decoration: none;
+}
+
+a.link_plane,
+a.link_plane:hover{
+    color: rgb(105, 76, 76);
+    text-decoration: none;
+}
+
+.data-user .info{
+    text-align: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.data-user .info h1{
+    font-size: 2rem;
+}
+.data-user .info h2{
+    font-size: 1rem;
+}
